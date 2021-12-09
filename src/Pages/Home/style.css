@@ -1,0 +1,32 @@
+.App-header {
+  background-color: transparent;
+  font-size: calc(10px + 2vmin);
+  color: #00ffff;
+}
+
+.App-main {
+  min-height: 90vh;
+}
+
+.App-footer {
+  min-height: 10vh;
+}
+video {
+  position: absolute;
+  width: 100%;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
+@media screen and (max-width: 650px) {
+  video {
+    display: none;
+  }
+
+  .hero {
+    background-color: black;
+  }
+}

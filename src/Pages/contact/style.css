@@ -1,0 +1,30 @@
+.Contact-header {
+  background-color:#112240;
+
+    color: cyan;
+  }
+  
+  .Hamburger-menu{
+    min-height: 5vh; 
+  }
+  
+  .Contact-main {
+    min-height: 85vh; 
+   }
+  
+  .Contact-left{
+    margin: auto;    
+    display: block;
+  }
+  
+  .Contact-right{
+    margin: auto;    
+    display: block;
+  }
+  
+  .Contact-footer {
+    min-height: 10vh; 
+  }  
+
+  
+ 

@@ -1,0 +1,45 @@
+.social-icons{
+    text-align: center;
+  }
+ 
+ 
+  .git{
+    margin-right: 1%;  
+    color: slategray;
+  }
+
+  .git:hover{
+    color: blue;
+
+  }
+
+
+  .insta{
+    margin-right: 1%;  
+    color: slategray;
+  }
+
+  .insta:hover{
+    color: #c1558b;
+  }
+
+  .linkedin{
+    /* margin: 1%;  */
+    color: slategray;
+  }
+  
+  .linkedin:hover{
+    color: #0e76a8;
+  }
+
+  .YT {
+     margin-right: 1%; 
+
+      color: slategray;
+  }
+
+  .YT:hover {
+    color: red;
+    width: "25%";
+    height: "25%"
+  }

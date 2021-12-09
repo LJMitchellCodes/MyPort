@@ -1,0 +1,103 @@
+
+
+.p-heading1C {
+  font-size: 4rem;
+  font-family: "Sulphur Point", sans-serif;
+  /* margin-top: 5%; */
+  color: #64ffda;
+  text-align: center;
+}
+
+.p-heading2C {
+  font-size: 0.98rem;
+  padding: 0.5%;
+  color: #8892b0;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+}
+
+.p-headingskills1 {
+  font-size: 0.98rem;
+  padding: 0.5%;
+  color: #8892b0;
+  text-align: left;
+  font-family: "Roboto Mono", monospace;
+  margin-left: 40%;
+}
+.p-headingskills2 {
+  font-size: 0.98rem;
+  padding: 0.5%;
+  color: #8892b0;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+}
+#skills-icons {
+  color: red;
+  text-align: center;
+  /* margin-right: 5%; */
+  font-size: 300%;
+}
+icon {
+  margin-right: 1%;
+}
+.js {
+  color: yellow;
+}
+.html {
+  color: coral;
+}
+.css {
+  color: blue;
+}
+.react {
+  color: cornflowerblue;
+}
+.node {
+  color: darkgreen;
+}
+.npm {
+  color: rgb(182, 60, 60);
+}
+.boot {
+  color: #6610f2;
+}
+.type {
+  color: #235a97;
+}
+.mui {
+  color: #007fff;
+}
+
+
+.section-title {
+  position: relative;
+  color: #64ffda;
+  font-size: 2.2em;
+  font-weight: 800;
+  margin-bottom: 3%;
+  text-align: center;
+  margin-top: 1%;
+}
+/*Use pseudo elements to create fancy underline */
+.section-title:before {
+  content: "";
+  position: absolute;
+  top: 56px;
+  left: 50%;
+  width: 200px;
+  height: 4px;
+  background: #804000;
+  transform: translateX(-50%);
+}
+
+.section-title:after {
+  content: "";
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  width: 30px;
+  height: 15px;
+  border-radius: 50%;
+  background: #804000;
+  transform: translateX(-50%);
+}

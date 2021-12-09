@@ -1,0 +1,29 @@
+.Project-header {
+  background-color:#112240;
+  
+     
+   }
+  
+  .Project-main {
+    min-height: 90vh;
+  }
+  
+  .d1{
+    height: 100%;
+    width: 100%;
+   }
+  
+  .d2{
+    height: 100%;
+    width: 100%;
+   }
+  
+  .d3{
+    height: 100%;
+    width: 100%;
+   }
+  
+  .About-footer {
+    min-height: 5vh;
+  }
+  
