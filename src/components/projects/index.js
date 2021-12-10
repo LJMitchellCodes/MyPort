@@ -47,7 +47,7 @@ class Projects extends React.Component {
                     </div>
                     <div className="col-sm-6">
                       <a
-                        href="https://github.com/LJMitchellCodes/210-Extreme-Fitness"
+                        href="https://github.com/LJMitchellCodes/MyPort"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -94,7 +94,7 @@ class Projects extends React.Component {
 
                     <div className="col-sm-6">
                       <a
-                        href="https://github.com/LJMitchellCodes/210-Extreme-Fitness"
+                        href="https://github.com/LJMitchellCodes/MyPort"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
