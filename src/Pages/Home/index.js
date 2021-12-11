@@ -7,7 +7,7 @@ import HomeLeft from "../../components/homeleft";
 import Footer from "../../components/footer";
 import { Container, Row, Col } from "react-bootstrap";
 
-import Video from "../../assets/video/sea and moon.mp4";
+import Video from "../../assets/video/seamoon.mp4";
 
 function Home() {
   return (
