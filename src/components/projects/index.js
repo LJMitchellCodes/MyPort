@@ -362,7 +362,7 @@ class Projects extends React.Component {
                       <h4>Simple Project Portfolio</h4>
 
                       <div className="w-more">
-                        <h6 className="w-ctegory">HTML CSS JS JQuery GitHubAPI</h6>
+                        <h6 className="w-ctegory">HTML CSS JS JQuery Ajax</h6>
                       </div>
                     </div>
 

@@ -147,7 +147,7 @@ function CV() {
               Texas A&I University: Mathematics/Computer Science{" "}
             </div>
             <div className="p-heading2C">Banquete ISD: 3rd in my class </div>
-          </div>
+          </div><br/>
         </Col>
       </Row>
 
