@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./stylep.css";
 import { FaGithub, FaGlobeAmericas } from "react-icons/fa";
 
 //import stock
@@ -8,6 +8,7 @@ import stock1 from "../../assets/img/port1.png";
 import stock2 from "../../assets/img/youtube1.png";
 import stock3 from "../../assets/img/ElonMusk.png";
 import stock4 from "../../assets/img/gym1.png";
+import stock5 from "../../assets/img/simpleajaxgithub.png"
 
 class Projects extends React.Component {
   render() {
@@ -47,7 +48,7 @@ class Projects extends React.Component {
                     </div>
                     <div className="col-sm-6">
                       <a
-                        href="https://github.com/LJMitchellCodes/MyPort"
+                        href="https://github.com/LJMitchellCodes/debuggin-dragons"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -60,7 +61,7 @@ class Projects extends React.Component {
                       </a>
                       <div className="w-more">
                         <a
-                          href="https://ljmitchellcodes.github.io/210-Extreme-Fitness/"
+                          href="https://dragazon.herokuapp.com/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -107,7 +108,7 @@ class Projects extends React.Component {
                       </a>
                       <div className="w-more">
                         <a
-                          href="https://ljmitchellcodes.github.io/210-Extreme-Fitness/"
+                          // href=""
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -168,7 +169,7 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-md-4">
+            {/* <div className="col-md-4"> 
               <div className="work-box">
                 <div className="work-img">
                   <img src={stock} alt="" className="img-fluid" />
@@ -213,7 +214,7 @@ class Projects extends React.Component {
                   </div>
                 </div>
               </div>
-            </div>
+    </div> */}
             <div className="col-md-4">
               <div className="work-box">
                 <div className="work-img">
@@ -258,7 +259,7 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-md-4">
+            {/* <div className="col-md-4"> 
               <div className="work-box">
                 <div className="work-img">
                   <img src={stock1} alt="" className="img-fluid" />
@@ -303,7 +304,7 @@ class Projects extends React.Component {
                   </div>
                 </div>
               </div>
-            </div>
+  </div> */}
 
             <div className="col-md-4">
               <div className="work-box">
@@ -353,21 +354,21 @@ class Projects extends React.Component {
             <div className="col-md-4">
               <div className="work-box">
                 <div className="work-img">
-                  <img src={stock1} alt="" className="img-fluid" />
+                  <img src={stock5} alt="" className="img-fluid" />
                 </div>
                 <div className="work-content">
                   <div className="row">
                     <div className="col-sm-6">
-                      <h4>My Portfolio</h4>
+                      <h4>Simple Project Portfolio</h4>
 
                       <div className="w-more">
-                        <h6 className="w-ctegory">React CSS3 Bootstrap</h6>
+                        <h6 className="w-ctegory">HTML CSS JS JQuery GitHubAPI</h6>
                       </div>
                     </div>
 
                     <div className="col-sm-6">
                       <a
-                        href="https://github.com/LJMitchellCodes/210-Extreme-Fitness"
+                        href="https://github.com/LJMitchellCodes/L10HandsOn"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -380,7 +381,7 @@ class Projects extends React.Component {
                       </a>
                       <div className="w-more">
                         <a
-                          href="https://ljmitchellcodes.github.io/Tweets/"
+                          href="https://ljmitchellcodes.github.io/L10HandsOn/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >

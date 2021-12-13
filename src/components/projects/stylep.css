@@ -2,7 +2,7 @@
 
 #work {
   background-color:#112240;
-  
+  /* background-color: silver; */
   display: flex;
   flex-direction: column;
   align-items: center;
