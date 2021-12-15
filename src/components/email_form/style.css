@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Abel|Asap|Barlow|Glegoo|Julius+Sans+One|Lato|Muli|Poiret+One|Sulphur+Point|Turret+Road&display=swap');
 
+
+
 .Contact-form{
     text-align: center;
     padding-bottom: 5%;
@@ -24,7 +26,8 @@
 .contact_input_text{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.5rem;
-    border-radius: 15%;
+   
+    border-radius: 20% 20% 20% 20% ;
     text-align: center;
     background: transparent;
     color: cyan;
@@ -52,12 +55,14 @@
   text-decoration: none;
   letter-spacing: 1px;
   border-radius: 2em;
+  border-radius: 1% 25% / 80% ;
   margin-top: 20px;
   transition: 0.5s ease;
   border:2px solid;
 } 
 .contact-email-text-btn:hover{
-      background: #666666;
-      color: aliceblue;
+      background: cyan;
+      color: black;
+      border-color: black;
   }
  
