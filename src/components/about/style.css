@@ -1,4 +1,8 @@
-
+p{
+  display: flex;
+  width:72%;
+  margin-left: 14%;
+}
 
 .p-heading1C {
   font-size: 4rem;

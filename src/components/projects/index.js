@@ -124,7 +124,7 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
-
+{/* 
             <div className="col-md-4">
               <div className="work-box">
                 <div className="work-img">
