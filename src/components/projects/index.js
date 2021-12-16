@@ -5,7 +5,7 @@ import { FaGithub, FaGlobeAmericas } from "react-icons/fa";
 //import stock
 import stock from "../../assets/img/gp2.png";
 import stock1 from "../../assets/img/port1.png";
-import stock2 from "../../assets/img/youtube1.png";
+// import stock2 from "../../assets/img/youtube1.png";
 import stock3 from "../../assets/img/ElonMusk.png";
 import stock4 from "../../assets/img/gym1.png";
 import stock5 from "../../assets/img/simpleajaxgithub.png"

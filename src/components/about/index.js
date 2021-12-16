@@ -2,14 +2,12 @@ import React from "react";
 import "./style.css";
 import { Row, Col } from "react-bootstrap";
 import {
-  FaHtml5,
-  FaCss3,
-  FaReact,
-  FaBootstrap,
+ 
   FaNodeJs,
   FaNpm,
   FaGithubSquare,
   FaGitAlt,
+ 
 } from "react-icons/fa";
 import {
   SiMaterialui,
@@ -19,6 +17,10 @@ import {
   SiAngular,
   SiIonic,
   SiTypescript,
+  SiBootstrap,
+  SiHtml5,
+  SiCss3,
+  SiReact,
 } from "react-icons/si";
 
 function CV() {
@@ -60,11 +62,11 @@ function CV() {
 
           <div id="skills-icons" data-aos="zoom-in" data-aos-duration="3000">
             <icon className="html">
-              <FaHtml5 />{" "}
+              <SiHtml5 />{" "}
             </icon>
             <icon className="css">
               {" "}
-              <FaCss3 />{" "}
+              <SiCss3 />{" "}
             </icon>
             <icon className="js">
               {" "}
@@ -76,7 +78,7 @@ function CV() {
             </icon>
             <icon className="react">
               {" "}
-              <FaReact />{" "}
+              <SiReact />{" "}
             </icon>
             <icon className="npm">
               {" "}
@@ -101,7 +103,7 @@ function CV() {
             </icon>
             <icon className="boot">
               {" "}
-              <FaBootstrap />{" "}
+              <SiBootstrap />{" "}
             </icon>
             <icon className="mui">
               {" "}
