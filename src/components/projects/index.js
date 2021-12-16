@@ -8,7 +8,7 @@ import stock1 from "../../assets/img/port1.png";
 // import stock2 from "../../assets/img/youtube1.png";
 import stock3 from "../../assets/img/ElonMusk.png";
 import stock4 from "../../assets/img/gym1.png";
-import stock5 from "../../assets/img/simpleajaxgithub.png"
+import stock5 from "../../assets/img/simpleajaxgithub.png";
 
 class Projects extends React.Component {
   render() {
@@ -109,8 +109,8 @@ class Projects extends React.Component {
                       <div className="w-more">
                         <a
                           // href=""
-                          target="_blank"
-                          rel="noopener noreferrer"
+                          // target="_blank"
+                          // rel="noopener noreferrer"
                         >
                           <button>
                             <h5>
@@ -124,7 +124,7 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
-{/* 
+            {/* 
             <div className="col-md-4">
               <div className="work-box">
                 <div className="work-img">
@@ -397,8 +397,6 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
-
-
           </div>
         </div>
       </section>
