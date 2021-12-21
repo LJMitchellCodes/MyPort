@@ -1,14 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Row, Col } from "react-bootstrap";
-import {
- 
-  FaNodeJs,
-  FaNpm,
-  FaGithubSquare,
-  FaGitAlt,
- 
-} from "react-icons/fa";
+
 import {
   SiMaterialui,
   SiJavascript,
@@ -21,6 +14,9 @@ import {
   SiHtml5,
   SiCss3,
   SiReact,
+  SiNodedotjs,
+  SiNpm,
+  SiGithub
 } from "react-icons/si";
 
 function CV() {
@@ -59,7 +55,7 @@ function CV() {
           >
             Skills
           </h1>
-
+ 
           <div id="skills-icons" data-aos="zoom-in" data-aos-duration="3000">
             <icon className="html">
               <SiHtml5 />{" "}
@@ -86,11 +82,11 @@ function CV() {
             </icon>
             <icon className="node">
               {" "}
-              <FaNodeJs />{" "}
+              <SiNodedotjs />{" "}
             </icon>
             <icon className="npm">
               {" "}
-              <FaNpm />{" "}
+              <SiNpm />{" "}
             </icon>
             <br />
             <icon className="node">
@@ -111,19 +107,16 @@ function CV() {
             </icon>
             <icon className="react">
               {" "}
-              <FaGithubSquare />{" "}
+              <SiGithub />{" "}
             </icon>
-            <icon className="npm">
-              {" "}
-              <FaGitAlt />{" "}
-            </icon>
+         
             <icon className="react">
               {" "}
               <SiIonic />{" "}
             </icon>
           </div>
           <br />
-
+       
           <h1
             className="section-title"
             data-aos="fade-up"

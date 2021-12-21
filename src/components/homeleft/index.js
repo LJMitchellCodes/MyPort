@@ -3,7 +3,7 @@ import "./style.css";
 import { Container, Row, Col } from "react-bootstrap";
 import ReactTypingEffect from "react-typing-effect";
 import Fade from "react-reveal";
-import { FaDesktop, FaBookOpen, FaPaperPlane } from "react-icons/fa";
+// import { FaDesktop, FaBookOpen, FaPaperPlane } from "react-icons/fa";
 
 function Home_Left() {
   return (
@@ -37,14 +37,14 @@ function Home_Left() {
             <ul className="social">
               <a href="/project">
                 <button className="home-left-aboutme">
-                  <FaDesktop />
+                  {/* <FaDesktop /> */}
                   Projects
                 </button>
               </a>
               <br />
               <a href="/about">
                 <button className="home-left-aboutme">
-                  <FaBookOpen />
+                  {/* <FaBookOpen /> */}
                   About Me
                 </button>
               </a>
@@ -52,7 +52,7 @@ function Home_Left() {
               <a href="/contact">
                 <button to="/contact" className="home-left-aboutme">
                   {" "}
-                  <FaPaperPlane />
+                  {/* <FaPaperPlane /> */}
                   Contact Me
                 </button>
               </a>

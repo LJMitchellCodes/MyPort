@@ -12,7 +12,7 @@ import Video from "../../assets/video/Untitled.mp4";
 function Home() {
   return (
     <div className="hero">
-      <video src={Video} autoPlay loop muted />
+      <video src={Video} autoPlay loop muted alt= "style= background-color: black"/>
 
       <Container className="App-header" fluid={true}>
         <Row className="App-main">

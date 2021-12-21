@@ -1,6 +1,6 @@
 import React from "react";
 import "./stylep.css";
-import { FaGithub, FaGlobeAmericas } from "react-icons/fa";
+// import { FaGithub, FaGlobeAmericas } from "react-icons/fa";
 
 //import stock
 import stock from "../../assets/img/gp2.png";
@@ -55,7 +55,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            <FaGithub /> GitHub{" "}
+                            {/* <FaGithub /> GitHub{" "} */}
                           </h5>
                         </button>
                       </a>
@@ -67,7 +67,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              <FaGlobeAmericas /> Live View
+                              {/* <FaGlobeAmericas /> Live View */}
                             </h5>{" "}
                           </button>
                         </a>
@@ -102,7 +102,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            <FaGithub /> GitHub{" "}
+                            {/* <FaGithub /> GitHub{" "} */}
                           </h5>
                         </button>
                       </a>
@@ -114,7 +114,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              <FaGlobeAmericas /> Live View
+                              {/* <FaGlobeAmericas /> Live View */}
                             </h5>{" "}
                           </button>
                         </a>
@@ -237,7 +237,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            <FaGithub /> GitHub{" "}
+                            {/* <FaGithub /> GitHub{" "} */}
                           </h5>
                         </button>
                       </a>
@@ -249,7 +249,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              <FaGlobeAmericas /> Live View
+                              {/* <FaGlobeAmericas /> Live View */}
                             </h5>{" "}
                           </button>
                         </a>
@@ -328,7 +328,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            <FaGithub /> GitHub{" "}
+                            {/* <FaGithub /> GitHub{" "} */}
                           </h5>
                         </button>
                       </a>
@@ -340,7 +340,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              <FaGlobeAmericas /> Live View
+                              {/* <FaGlobeAmericas /> Live View */}
                             </h5>{" "}
                           </button>
                         </a>
@@ -375,7 +375,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            <FaGithub /> GitHub{" "}
+                            {/* <FaGithub /> GitHub{" "} */}
                           </h5>
                         </button>
                       </a>
@@ -387,7 +387,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              <FaGlobeAmericas /> Live View
+                              {/* <FaGlobeAmericas /> Live View */}
                             </h5>{" "}
                           </button>
                         </a>
@@ -397,6 +397,7 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
+            
           </div>
         </div>
       </section>
