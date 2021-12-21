@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/staging.website.com/
+    - export DEPLOYPATH=/home/user/lonnie-mitchell.com/
 - /bin/cp r * $DEPLOYPATH​
