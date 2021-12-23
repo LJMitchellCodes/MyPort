@@ -53,7 +53,7 @@ function Home_Left() {
                 <button to="/contact" className="home-left-aboutme">
                   {" "}
                   {/* <FaPaperPlane /> */}
-                  Contact Me
+                  Available for work
                 </button>
               </a>
             </ul>

@@ -27,7 +27,7 @@ class Loading extends Component {
         <div className="Loading-header">
           <PuffLoader
             size={'40vw'}
-            color={"cyan"}
+            color={"black"}
             loading={true}
           />
         </div>
