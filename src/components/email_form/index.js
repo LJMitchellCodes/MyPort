@@ -1,5 +1,5 @@
 import React from 'react';
-import '../email_form/style.css';
+import '../email_form/stylee.css';
 import * as emailjs from 'emailjs-com';
 import { Button, Form, FormGroup, Modal, Image } from 'react-bootstrap';
 import ClipLoader from 'react-spinners/BarLoader';

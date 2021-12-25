@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.css';
+import './stylec.css';
 import {Row, Col} from 'react-bootstrap';
 import SocialIcons from '../social_icons';
 

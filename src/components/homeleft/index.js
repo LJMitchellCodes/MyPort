@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./styleh.css";
 import { Container, Row, Col } from "react-bootstrap";
 import ReactTypingEffect from "react-typing-effect";
 import Fade from "react-reveal";
@@ -53,7 +53,7 @@ function Home_Left() {
                 <button to="/contact" className="home-left-aboutme">
                   {" "}
                   {/* <FaPaperPlane /> */}
-                  Available for work
+                  Available for Work
                 </button>
               </a>
             </ul>

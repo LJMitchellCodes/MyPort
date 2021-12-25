@@ -1,14 +1,22 @@
 import React from "react";
 import "./stylep.css";
 // import { FaGithub, FaGlobeAmericas } from "react-icons/fa";
+import {
+  
+  SiGithub
+} from "react-icons/si";
+import {
+  
+  CgWebsite
+} from "react-icons/cg";
 
 //import stock
-import stock from "../../assets/img/gp2.png";
-import stock1 from "../../assets/img/port1.png";
+import stock from "../../assets/img/gp2.webp";
+import stock1 from "../../assets/img/port1.webp";
 // import stock2 from "../../assets/img/youtube1.png";
-import stock3 from "../../assets/img/ElonMusk.png";
-import stock4 from "../../assets/img/gym1.png";
-import stock5 from "../../assets/img/simpleajaxgithub.png";
+import stock3 from "../../assets/img/ElonMusk.webp";
+import stock4 from "../../assets/img/gym1.webp";
+import stock5 from "../../assets/img/simpleajaxgithub.webp";
 
 class Projects extends React.Component {
   render() {
@@ -55,7 +63,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            {/* <FaGithub /> GitHub{" "} */}
+                            <SiGithub /> GitHub{" "}
                           </h5>
                         </button>
                       </a>
@@ -67,7 +75,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              {/* <FaGlobeAmericas /> Live View */}
+                              <CgWebsite /> Live View
                             </h5>{" "}
                           </button>
                         </a>
@@ -102,7 +110,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            {/* <FaGithub /> GitHub{" "} */}
+                            <SiGithub /> GitHub{" "}
                           </h5>
                         </button>
                       </a>
@@ -114,7 +122,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              {/* <FaGlobeAmericas /> Live View */}
+                              <CgWebsite /> Live View
                             </h5>{" "}
                           </button>
                         </a>
@@ -237,7 +245,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            {/* <FaGithub /> GitHub{" "} */}
+                            <SiGithub /> GitHub{" "}
                           </h5>
                         </button>
                       </a>
@@ -328,7 +336,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            {/* <FaGithub /> GitHub{" "} */}
+                            <SiGithub /> GitHub{" "}
                           </h5>
                         </button>
                       </a>
@@ -375,7 +383,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            {/* <FaGithub /> GitHub{" "} */}
+                            <SiGithub /> GitHub{" "}
                           </h5>
                         </button>
                       </a>

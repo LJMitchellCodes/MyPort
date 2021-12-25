@@ -1,5 +1,5 @@
 import React from 'react';
-import '../skills_icons/style.css';
+import '../skills_icons/stylesk.css';
 import {
  Col,
 } from 'react-bootstrap';

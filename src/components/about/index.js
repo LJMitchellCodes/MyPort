@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./stylea.css";
 import { Row, Col } from "react-bootstrap";
 
 import {

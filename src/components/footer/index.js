@@ -1,5 +1,5 @@
 import React from 'react';
-import '../footer/style.css';
+import '../footer/stylef.css';
 import {
   Container,
   Row,
