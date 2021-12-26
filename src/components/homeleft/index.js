@@ -37,14 +37,14 @@ function Home_Left() {
             <ul className="social">
               <a href="/project">
                 <button className="home-left-aboutme">
-                  {/* <FaDesktop /> */}
+               
                   Projects
                 </button>
               </a>
               <br />
               <a href="/about">
                 <button className="home-left-aboutme">
-                  {/* <FaBookOpen /> */}
+                
                   About Me
                 </button>
               </a>
@@ -52,7 +52,7 @@ function Home_Left() {
               <a href="/contact">
                 <button to="/contact" className="home-left-aboutme">
                   {" "}
-                  {/* <FaPaperPlane /> */}
+                 
                   Available for Work
                 </button>
               </a>

@@ -13,7 +13,7 @@ import {
 //import stock
 import stock from "../../assets/img/gp2.webp";
 import stock1 from "../../assets/img/port1.webp";
-// import stock2 from "../../assets/img/youtube1.png";
+import stock2 from "../../assets/img/Mygithubsearch.png";
 import stock3 from "../../assets/img/ElonMusk.webp";
 import stock4 from "../../assets/img/gym1.webp";
 import stock5 from "../../assets/img/simpleajaxgithub.webp";
@@ -267,10 +267,11 @@ class Projects extends React.Component {
                 </div>
               </div>
             </div>
-            {/* <div className="col-md-4"> 
+
+             <div className="col-md-4"> 
               <div className="work-box">
                 <div className="work-img">
-                  <img src={stock1} alt="" className="img-fluid" />
+                  <img src={stock2} alt="" className="img-fluid" />
                 </div>
                 <div className="work-content">
                   <div className="row">
@@ -291,7 +292,7 @@ class Projects extends React.Component {
                         <button>
                           <h5>
                             {" "}
-                            <FaGithub /> GitHub{" "}
+                            {/* <FaGithub /> GitHub{" "} */}
                           </h5>
                         </button>
                       </a>
@@ -303,7 +304,7 @@ class Projects extends React.Component {
                         >
                           <button>
                             <h5>
-                              <FaGlobeAmericas /> Live View
+                              {/* <FaGlobeAmericas /> Live View */}
                             </h5>{" "}
                           </button>
                         </a>
@@ -312,7 +313,7 @@ class Projects extends React.Component {
                   </div>
                 </div>
               </div>
-  </div> */}
+  </div> 
 
             <div className="col-md-4">
               <div className="work-box">
