@@ -53,7 +53,7 @@ function Home_Left() {
                 <button to="/contact" className="home-left-aboutme">
                   {" "}
                  
-                  Available for Work
+                  Connect With Me
                 </button>
               </a>
             </ul>
